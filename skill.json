@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-renal-free-water-clearance-ch2o-skill",
+  "version": "1.0.0",
+  "description": "Calculates renal Osmolar Clearance (Cosm), Free Water Clearance (CH2O), Negative Free Water Clearance (Tc_H2O), and Electrolyte-Free Water Clearance (E-FWC).",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "nephrology",
+    "renal",
+    "free-water-clearance",
+    "ch2o",
+    "cosm",
+    "osmoregulation",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
